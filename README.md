@@ -15,7 +15,7 @@ to share scripts and data from the TF05 manuscript
 - 04_chrcomp  
   genome comparison using assembled genomes
 - 05_mutCGRD  
-  copy number analysis using Illumina reads between MC7 
+  copy number analysis between MC7 mutants and the original MC7 using Nanopore reads 
 - 06_TE  
   TE annotation and extract sequences of intact LTRs
 - 07_methyl  
