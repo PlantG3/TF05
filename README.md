@@ -31,3 +31,6 @@ to share scripts and data from the TF05 manuscript
 [ndotplot](https://github.com/liu3zhenlab/ndotplot.git) - dotplot  
 [homotools](https://github.com/liu3zhenlab/homotools.git) - homologous search and comparison
 
+### Citation
+Guifang Lin, Huakun Zheng, Dal-Hoe Koo, Zonghua Wang, David Cook, Barbara Valent, Sanzhen Liu, Highly dynamic supernumerary mini-chromosomes in a Magnaporthe oryzae strain, 2024, bioRxiv, [2024.12.10.627822](https://doi.org/10.1101/2024.12.10.627822)
+
